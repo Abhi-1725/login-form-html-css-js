@@ -11,9 +11,9 @@ Basic login authentication using html-css &amp; js on client side
 Additional description about the project and its features.
 
 - To design the login page using JavaScript functionalities. 
-- This page requires email-id, username and password to register for the first time
+- This page requires username, email-id and password to register for the first time
 - Once registered we just need to login using email id and password.
-- Minimum of 12 characters are required for the username to be valid
+- Minimum of 9 characters are required for the username to be valid
 
 ## Built With
 

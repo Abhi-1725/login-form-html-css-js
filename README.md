@@ -32,7 +32,7 @@ Additional description about the project and its features.
 
 ### Setup
 
-- Clone the repository with command: git clone
+- Clone the repository with command: git clone https://github.com/Abhi-1725/login-form-html-css-js.git
 - Then open the demo link in the README.md
 
 ### Install

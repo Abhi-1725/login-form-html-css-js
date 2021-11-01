@@ -1,0 +1,46 @@
+:root {
+    --primary-color:beige;
+    --error-color:red;
+    --success-color:green;
+    --sign-color:rgb(0, 140, 255);
+    --black-color:#000000;
+}
+
+body {
+    background-image: url(./images/background.jpg);
+    min-height: 100vh;
+}
+
+.wrapper {
+    transform:translate(220%, 80%);
+    background-color: var(--primary-color);
+    width: 19%;
+    padding: 1rem;
+    border-radius: 0.5em;
+}
+
+.wrapper .form-group {
+    width: max-content;
+}
+
+.btn {
+    margin-left: 4rem;
+    background-color: var(--sign-color);
+}
+
+#name {
+    color: var(--error-color);
+    visibility: hidden;
+}
+
+.signup.inActive{
+    display:none;
+}
+
+.signin{
+    display:none;
+}
+
+.signin.active{
+    display:block;
+}
